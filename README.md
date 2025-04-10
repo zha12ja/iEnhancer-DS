@@ -2,7 +2,8 @@
 
 iEnhancer-DS: Attention-Based improved DenseNet for identifying enhancers and their strengths
 
-[Model.pdf](https://github.com/user-attachments/files/19677499/Model.pdf)
+![Model](https://github.com/user-attachments/assets/9afd3ecc-c932-4e97-8bfe-771fda94553d)
+
 
 ## 1.Environment setup
 

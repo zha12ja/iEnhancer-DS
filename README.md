@@ -23,17 +23,17 @@ python -m pip install -r requirements.txt
 
 ## 2.Model training
 
-#### 2.1 Task 1: Enhancer identification
+#### 2.1 Task 1: Enhancers identification
 
-Use "First_task.py" to identify enhancers
+Use "First_task.py" to identify enhancers.
 
 ```
 python First_task.py
 ```
 
-#### 2.2 Task 1: Enhancer identification
+#### 2.2 Task 2: Enhancers strength prediction
 
-Use "Second_task.py" to identify enhancers strength
+Use "Second_task.py" to prediction enhancers strength.
 
 ```
 python Second_task.py

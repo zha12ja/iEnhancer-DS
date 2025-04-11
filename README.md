@@ -40,8 +40,4 @@ Use "Second_task.py" to prediction enhancers strength.
 python Second_task.py
 ```
 
-## 3.Pre-trained model
- 
-The trained model will be uploaded within three days.
-
 
